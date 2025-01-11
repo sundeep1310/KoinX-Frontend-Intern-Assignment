@@ -11,7 +11,7 @@ import { Team } from "../components/Team";
 import { Tokenomics } from "../components/Tokenomics";
 import { Technicals } from "../components/Technicals";
 import { NewsInsights } from "../components/NewsInsights";
-import { YouMayAlike } from "../components/YouMayAlike";
+import { YouMayAlike } from "../components/YouMayALike";
 
 function CoinPage() {
   const { coinId = "bitcoin" } = useParams();
